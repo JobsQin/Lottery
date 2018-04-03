@@ -26,7 +26,8 @@ public class HelloFilter implements Filter {
 		System.out.println("dofilter()...");
 		//и┼лл
 		//chain.doFilter(arg0, arg1);
-		//hello
+		//hello world
+		
 		
 	}
 
